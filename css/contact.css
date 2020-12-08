@@ -1,0 +1,58 @@
+*{
+    margin: 0 auto;
+} 
+  
+body{      
+      font-family: "Open Sans";
+}
+ul.menu li a{
+      color: rgb(41, 41, 41);
+      text-decoration: none;
+       font-size: 20px; 
+      
+} 
+ul.menu{
+   text-align: right; 
+      line-height: 29px;
+      list-style: none;
+      background-color: rgba(255, 255, 255, 0.5);
+      margin-top: 35px;
+      padding: 18px;
+      padding-right: 0px;
+}
+ul.redes{
+      text-align: right;
+  }
+.redes a{
+      color: black;
+}
+p a{
+    text-decoration: none;
+    color: gray;
+}
+h1{
+ font-family: Raleway;
+ font-size: 60px;
+ margin-top: 65px;
+}
+h3{
+  font-family: Raleway;
+  margin-top:45px;
+  margin-bottom:25px;
+}/* 
+iframe#mapa{
+    margin-bottom: 20px;
+} */
+
+h3#contacto{
+    color: black;
+    margin-top: 55px;
+    font-family: Raleway;
+    font-size: 25px;
+   /*  font-weight: bold ; */
+}
+h4{
+    color: rgb(53, 139, 179);
+    margin-top: 35px;
+
+}
